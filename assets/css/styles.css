@@ -1,3 +1,15 @@
+#footerLogo{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    width: 15%;
+}
+#devLogo{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    height: 85%;
+}
 .top {
     position: fixed;
     top: 0;
@@ -5,16 +17,17 @@
     height: 80px;
     width: 100%;
 }
-
 .first {
-    padding-top: 1%;
     margin: auto;
-    margin-top: 470px;
-    height: 200px;
-    background-color: rgba(0, 0, 0, 0.6);
+    margin-top: 25%;
+    height: 25%;
+    background-color: rgba(84, 135, 198, 0.6);
+}
+.titleContainer {
+    height: 25%;
+    background-color: rgb(0, 0, 0);
 }
 
-.letrero {
-    height: 20%;
-    background-color: rgb(0, 0, 0);
+#title{
+    padding-top: 2%;
 }
